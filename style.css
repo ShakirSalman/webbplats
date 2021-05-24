@@ -1,0 +1,14 @@
+#profile_pic{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: solid 2px gray;
+    display: -webkit-inline-box;
+}
+#friends_bar{
+    background-color: white;
+    min-height: 400px;
+    margin-top: 20px;
+    color: #aaa;
+    padding: 8px;
+}

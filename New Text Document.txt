@@ -1,0 +1,6 @@
+
+Feedback
+Jag har lite problem med att använda sajten. Dels går det inte att skapa konto, det skapas ingen användare i databasen.
+Det listas andra användare men det går inte att klicka sig vidare till dem, och då går det inte heller att lämna meddelanden till dem. Den inloggade användaren kan inte heller ta bort meddelanden.
+
+Det behöver fixas för G.
